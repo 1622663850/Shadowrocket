@@ -19,7 +19,7 @@
 > 本仓库与官方群组保持同步更新，[Johnshall](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) 维护的版本也会同步更新至最新内容
 >
 > ```ruby
-> https://lowertop.github.io/Shadowrocket/lazy_group.conf
+> [https://lowertop.github.io/Shadowrocket/lazy_group.conf](https://raw.githubusercontent.com/1622663850/Shadowrocket/main/lazy_group.conf)
 > ```
 
 ------
